@@ -171,7 +171,7 @@ body {
 #Image {
   position: absolute;
   left: 20%;
-  bottom: 40%;
+  bottom: 30%;
   width: 60%;
 }
 
@@ -181,7 +181,7 @@ body {
 
 .Keyboard {
   position: absolute;
-  top: 70%;
+  top: 75%;
   left: 10%;
   height: 200px;
   width: 80%;
